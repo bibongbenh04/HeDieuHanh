@@ -16,7 +16,7 @@ git clone https://github.com/bibongbenh04/HeDieuHanh.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd TestWeb
+cd HeDieuHanh
 
 ```
 
