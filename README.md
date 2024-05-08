@@ -39,6 +39,8 @@ venv\scripts\activate
 --> Install the requirements :
 ```bash
 pip install -r requirement.txt
+python manage.py makemigrations myapp
+python manage.py migrate
 
 ```
 
